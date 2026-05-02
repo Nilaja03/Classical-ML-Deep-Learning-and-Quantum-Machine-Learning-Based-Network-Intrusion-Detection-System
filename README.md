@@ -58,9 +58,7 @@ pip install -r requirements.txt
 Or install manually:
 
 ```bash
-pip install pandas numpy scikit-learn tensorflow keras xgboost \
-            qiskit qiskit-machine-learning qiskit-algorithms \
-            streamlit pyngrok joblib dill matplotlib seaborn pylatexenc
+pip install pandas numpy scikit-learn tensorflow keras xgboost qiskit qiskit-machine-learning qiskit-algorithms streamlit pyngrok joblib dill matplotlib seaborn pylatexenc
 ```
 
 ### 3. Run on Google Colab (Recommended)
