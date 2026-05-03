@@ -19,11 +19,13 @@ This project benchmarks nine AI models across three paradigms on the **KDD Cup 1
 ## 📂 Repository Structure
 
 ```
-├── Full_Stack_based_Network_Intrusion_Detection.ipynb   # Main notebook
-├── Train_data.csv                                        # KDD Cup 1999 training set (25,192 records)
-├── Test_data.csv                                         # KDD Cup 1999 test set
-├── requirements.txt                                      # Python dependencies
-└── README.md
+├── Full_Stack_based_Network_Intrusion_Detection_(Tested).ipynb   # Main notebook
+├── test_intrusion_detection.py                                   # Test file containing test cases
+├── Train_data.csv                                                # KDD Cup 1999 training set (25,192 records)
+├── Test_data.csv                                                 # KDD Cup 1999 test set
+├── requirements.txt                                              # Python dependencies
+├── LICENSE                                                       # GNU Affero General Public License v3.0
+└── README.md                                                     # README file
 ```
 
 > **Note:** Model artifact files (`*.pkl`, `dnn_model.keras`) are generated when you run the notebook and are not included in the repository.
