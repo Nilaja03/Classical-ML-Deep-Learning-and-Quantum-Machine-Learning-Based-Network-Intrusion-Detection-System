@@ -24,6 +24,8 @@ This project benchmarks nine AI models across three paradigms on the **KDD Cup 1
 ├── Train_data.csv                                                # KDD Cup 1999 training set (25,192 records)
 ├── Test_data.csv                                                 # KDD Cup 1999 test set
 ├── requirements.txt                                              # Python dependencies
+├── SRS Document.pdf                                              # Software Requirement Specification file
+├── Test Plan.pdf                                                 # Test Plan file
 ├── LICENSE                                                       # GNU Affero General Public License v3.0
 └── README.md                                                     # README file
 ```
